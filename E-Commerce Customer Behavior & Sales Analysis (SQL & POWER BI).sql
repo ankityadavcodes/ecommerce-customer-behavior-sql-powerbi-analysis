@@ -170,6 +170,7 @@ order by Top_contributors desc;
 -- Insight: CUST_01573 is the highest contributor (~₹50,628), followed by a few others each contributing ₹36K–47K,
 --			highlighting a high-value customer segment that drives significant revenue.
 
+
 /* =====================================================
    SECTION 3: ENGAGEMENT, OPERATIONS & EXPERIENCE
    Purpose: Analyze user behavior, delivery, and satisfaction
@@ -296,3 +297,4 @@ order by total_amount desc;
 -- 10. Focus: top customer retention, mobile UX, delivery speed, high-value order issues.
 
 */
+
