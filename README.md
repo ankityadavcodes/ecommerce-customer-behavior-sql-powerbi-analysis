@@ -113,6 +113,7 @@ An interactive dashboard was created with:
 
 ## 👤 Author
 **Ankit Yadav**  
-Data Analyst | SQL | Power BI | Excel  
+Data Analyst | SQL | Power BI | Excel | Python | Machine Learning
+ 
 
 ---
